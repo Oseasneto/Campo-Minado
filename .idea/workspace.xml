@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc3017cd-ffab-4f7c-9815-a31ddbd8c092" name="Changes" comment="" />
+    <list default="true" id="dc3017cd-ffab-4f7c-9815-a31ddbd8c092" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/cod3r/cm/modelo/Campo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/cod3r/cm/modelo/Tabuleiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/br/com/cod3r/cm/modelo/CampoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2KdezYXBO1Gt30UU0li7Mjtz0rQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,9 +38,49 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Java curso udemy/projetos/Campo-Minado/src/test/java"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Java curso udemy\projetos\Campo-Minado\src\test\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CampoTest.testeVizinhoRealDistancia1">
+    <configuration name="CampoTest.testeVizinhoRealDistancia1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Campo-Minado" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.cod3r.cm.modelo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.cod3r.cm.modelo" />
+      <option name="MAIN_CLASS_NAME" value="br.com.cod3r.cm.modelo.CampoTest" />
+      <option name="METHOD_NAME" value="testeVizinhoRealDistancia1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Inicial.VerificarJunit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Campo-Minado" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Inicial" />
+      <option name="METHOD_NAME" value="VerificarJunit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CampoTest.testeVizinhoRealDistancia1" />
+        <item itemvalue="JUnit.Inicial.VerificarJunit" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -28,6 +90,29 @@
       <option name="presentableId" value="Default" />
       <updated>1674309152829</updated>
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1674309272044</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674309272044</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
