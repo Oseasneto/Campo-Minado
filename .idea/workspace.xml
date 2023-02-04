@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc3017cd-ffab-4f7c-9815-a31ddbd8c092" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/cod3r/cm/excecao/ExplosaoException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/cod3r/cm/modelo/Campo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/cod3r/cm/modelo/Campo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/br/com/cod3r/cm/modelo/CampoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/br/com/cod3r/cm/modelo/CampoTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -117,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674312736052</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update">
+      <created>1674664464719</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674664464719</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,5 +143,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
     <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Campo_Minado$CampoTest.ic" NAME="CampoTest Coverage Results" MODIFIED="1675468797422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>br.com.cod3r.cm.modelo.*</FILTER>
+    </SUITE>
   </component>
 </project>
